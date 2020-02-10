@@ -1,1 +1,1 @@
-# srudent-directory
+# student-directory
